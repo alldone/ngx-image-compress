@@ -1,8 +1,8 @@
 {
-  "name": "ngx-image-compress-test",
-  "version": "7.2.2",
+  "name": "ngx-alldone-image-compress",
+  "version": "7.2.3",
   "author": "dfa",
-  "repository": "https://github.com/dfa1234/ngx-image-compress",
+  "repository": "https://github.com/alldone/ngx-image-compress",
   "keywords":  "angular image upload compression",
   "scripts": {
     "ng": "ng",
