@@ -1,6 +1,7 @@
 import {Component} from '@angular/core';
-import {NgxImageCompressService} from 'ngx-image-compress';
-import {DOC_ORIENTATION} from 'ngx-image-compress/lib/image-compress';
+import { NgxImageCompressService } from 'projects/ngx-image-compress/src/lib/ngx-image-compress.service';
+//import {NgxImageCompressService} from 'ngx-image-compress';
+//import {DOC_ORIENTATION} from 'ngx-image-compress/lib/image-compress';
 
 
 @Component({

@@ -64,6 +64,7 @@ export class ImageCompress {
       const inputElement = render.createElement('input');
       render.setStyle(inputElement, 'display', 'none');
       render.setProperty(inputElement, 'type', 'file');
+      render.setProperty(inputElement, 'accept', 'image/*');
 
       render.listen(inputElement, 'click', ($event) => {
         // javascript teachable moment

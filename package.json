@@ -1,19 +1,24 @@
 {
-  "name": "ngx-alldone-image-compress-test",
-  "version": "7.2.3",
-  "author": "dfa",
-  "repository": "https://github.com/alldone/ngx-image-compress",
-  "keywords":  "angular image upload compression",
+  "name": "@alldone_cz/ngx-alldone-image-compress-test",
+  "version": "10.0.0",
+  "author": "alldone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alldone/ngx-image-compress.git"
+  },
+  "keywords": [
+    "angular image upload compression"
+  ],
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --port 4300",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "generate-lib": "ng generate library ngx-image-compress-2 --prefix=enl",
-    "build-lib": "ng build ngx-image-compress",
-    "publish-lib": "cd dist && npm publish ngx-image-compress"
+    "generate-lib": "ng generate library ngx-alldone-image-compress-2 --prefix=enl",
+    "build-lib": "ng build ngx-alldone-image-compress",
+    "publish-lib": "cd dist && npm publish ngx-alldone-image-compress"
   },
   "private": false,
   "dependencies": {
@@ -54,5 +59,12 @@
     "tslib": "^1.9.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "description": "Angular utility for compressing images to a satisfying size, that you can choose",
+  "bugs": {
+    "url": "https://github.com/alldone/ngx-image-compress/issues"
+  },
+  "homepage": "https://github.com/alldone/ngx-image-compress#readme",
+  "main": "index.js",
+  "license": "ISC"
 }

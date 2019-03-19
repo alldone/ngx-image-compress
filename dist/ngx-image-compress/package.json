@@ -1,0 +1,29 @@
+{
+  "name": "ngx-alldone-image-compress",
+  "version": "10.0.0",
+  "author": "alldone",
+  "repository": "https://github.com/alldone/ngx-image-compress",
+  "keywords": [
+    "angular",
+    "image",
+    "upload",
+    "compression"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/ngx-alldone-image-compress.umd.js",
+  "module": "fesm5/ngx-alldone-image-compress.js",
+  "es2015": "fesm2015/ngx-alldone-image-compress.js",
+  "esm5": "esm5/ngx-alldone-image-compress.js",
+  "esm2015": "esm2015/ngx-alldone-image-compress.js",
+  "fesm5": "fesm5/ngx-alldone-image-compress.js",
+  "fesm2015": "fesm2015/ngx-alldone-image-compress.js",
+  "typings": "ngx-alldone-image-compress.d.ts",
+  "metadata": "ngx-alldone-image-compress.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

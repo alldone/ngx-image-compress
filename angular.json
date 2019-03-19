@@ -134,7 +134,7 @@
         }
       }
     },
-    "ngx-image-compress": {
+    "ngx-alldone-image-compress": {
       "root": "projects/ngx-image-compress",
       "sourceRoot": "projects/ngx-image-compress/src",
       "projectType": "library",

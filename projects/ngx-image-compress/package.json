@@ -1,12 +1,16 @@
 {
   "name": "ngx-alldone-image-compress",
-  "version": "7.2.3",
-  "author": "dfa",
+  "version": "10.0.0",
+  "author": "alldone",
   "repository": "https://github.com/alldone/ngx-image-compress",
-  "keywords":  ["angular","image","upload","compression"],
+  "keywords": [
+    "angular",
+    "image",
+    "upload",
+    "compression"
+  ],
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
   }
 }
-

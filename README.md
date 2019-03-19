@@ -5,7 +5,7 @@ Angular utility for compressing images to a satisfying size, that you can choose
 
 ### Import
 ```sh
-npm i ngx-image-compress
+npm i ngx-alldone-image-compress
 ```
 
 ### Usage
